@@ -451,7 +451,6 @@ function App() {
       </section>
 
 
-```jsx
 {/* GITHUB PROJECTS */}
 <section className="github-section" id="github">
 
@@ -464,7 +463,7 @@ function App() {
       playsInline
     >
       <source
-        src="/videos/portfolio-bg.mp4"
+        src="/public/videos/portfolio-bg.mp4"
         type="video/mp4"
       />
     </video>
@@ -791,7 +790,6 @@ function App() {
   </div>
 
 </section>
-```
 
       {/* WORKFLOW */}
       <section className="section workflow-section">
